@@ -1,0 +1,54 @@
+/**
+
+01 ------------- TYPOGRAPHY SYSTEM ----------
+Font Sizes (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+By Default 1 rem = 16px 
+but by adding following style can change 1 rem value 
+
+html {
+    font-size: 10px
+}
+
+this above code will make 1 rem = 10px
+
+Font Weight
+Default: 1 
+
+Spacing System (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+02 -------------- COLORS -----------------
+- Primary Color: #e67e22
+
+- Tints:
+- Shades:
+- Accents:
+- Greys: #555
+
+Reference Open Colors: https://yeun.github.io/open-color/
+Reference Color Contrast Checker: https://coolors.co/contrast-checker/112a46-acc8e5
+
+03 ------------- IMAGES ----------------
+
+For user avatars: https://www.uifaces.co/browse-avatars/
+For Content Images https://unsplash.com/
+For Icons: https://heroicons.com/
+
+
+04 -------------- SHADOWS -------------------
+
+05 -------------- BORDER RADIUS -------------
+
+06 -------------- WHITESPACE ----------------
+
+07 -------------- RESPONSIVE DESIGN INGRREDIENTS ----------------
+
+1. Fluid Layouts 
+2. Responsive Units 
+3. Flexible Images 
+4. Media Queries
+
+
+*/
